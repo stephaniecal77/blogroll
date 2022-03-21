@@ -1,0 +1,11 @@
+<style>
+.letak{
+position:absolute;
+left:-8168px;
+}
+</style>
+
+<ol class="letak">
+<li class="letak"> <a href="https://www.gentongpos.com/"  target="_blank">berita olahraga terkini Indonesia</a> </li>
+<li class="letak"> <a href="https://gentongpromo.com/"  target="_blank" >freebet new member tanpa deposit</a> </li>
+<ol>
